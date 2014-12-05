@@ -25,7 +25,7 @@ If you have questions, file a [new issue](https://github.com/seandavi/serpentine
    - bwa-HaplotypeCaller
        + bwa alignment (100%)
 	   + GATK processing (100%)
-	   + Haplotype Caller (TODO)
+	   + Haplotype Caller (100%)
 	   + GATK VQSR (TODO)
    - Novoalign-HaplotypeCaller
        + novoalign alignment (TODO)
